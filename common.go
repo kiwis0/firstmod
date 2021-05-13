@@ -1,10 +1,10 @@
-package common
+package firstmod
 
-func getCommonData() string {
-	return "Common data"
+func sayHello() string {
+	return "Hello"
 }
 
-func getData() string {
-	return "data"
+func sayHi() string {
+	return "hi :)"
 }
 
