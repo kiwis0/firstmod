@@ -4,6 +4,7 @@ import (
 	"testing"
 )
 
+// test funcs
 func TestHello(t *testing.T) {
 	want := "Hello"
 	if got := sayHello(); got != want {
